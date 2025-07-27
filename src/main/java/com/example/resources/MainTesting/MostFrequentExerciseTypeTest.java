@@ -1,4 +1,4 @@
-package com.example.MainTesting;
+package com.example.resources.MainTesting;
 //Finds the most frequently performed exercise type within a period.
 
 import com.example.dao.ExerciseDAO;

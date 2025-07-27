@@ -1,4 +1,4 @@
-package com.example.MainTesting;
+package com.example.resources.MainTesting;
 //Adds a progress entry and lists all progress for a user.
 
 import com.example.dao.ProgressDAO;

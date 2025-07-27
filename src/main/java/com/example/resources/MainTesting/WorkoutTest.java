@@ -1,4 +1,4 @@
-package com.example.MainTesting;
+package com.example.resources.MainTesting;
 //Lists workouts for a user in the past month.
 
 import com.example.dao.WorkoutDAO;

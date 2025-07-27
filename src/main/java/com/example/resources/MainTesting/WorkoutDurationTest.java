@@ -1,4 +1,4 @@
-package com.example.MainTesting;
+package com.example.resources.MainTesting;
 //Calculates total workout duration per week for last 3 months.
 
 import com.example.dao.WorkoutDAO;

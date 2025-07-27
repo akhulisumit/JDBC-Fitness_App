@@ -1,4 +1,4 @@
-package com.example.MainTesting;
+package com.example.resources.MainTesting;
 //Retrieves exercises for a specific workout.
 
 import com.example.dao.ExerciseDAO;

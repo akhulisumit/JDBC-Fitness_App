@@ -1,4 +1,4 @@
-package com.example.MainTesting;
+package com.example.resources.MainTesting;
 //Shows weight entries over time for a user.
 
 import com.example.dao.ProgressDAO;

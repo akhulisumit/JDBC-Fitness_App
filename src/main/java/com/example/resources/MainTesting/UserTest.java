@@ -1,4 +1,4 @@
-package com.example.MainTesting;
+package com.example.resources.MainTesting;
 //Tests User creation and listing users.
 
 import com.example.entity.User;
